@@ -1,3 +1,5 @@
+I'm a Java developer based in Kiev, Ukraine 🇺🇦
+
 ## About Me
 
 👨‍💻 I've been working as a Java developer for several years now, and I love it!
